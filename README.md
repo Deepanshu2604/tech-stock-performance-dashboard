@@ -33,3 +33,7 @@ This project analyzes the performance of major tech stocks using Python for data
 ## 🔹 Author
 **Deepanshu Dargan**  
 Aspiring Data Analyst
+
+## 🔹 Linkedin Profile 
+👉 [View Profile Here]
+(https://www.linkedin.com/in/deepanshu-dargan-15b70936a/)
